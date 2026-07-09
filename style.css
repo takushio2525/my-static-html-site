@@ -1,9 +1,1 @@
-body {
-  font-family: sans-serif;
-  margin: 40px;
-  background-color: #f5f5f5;
-}
-
-h1 {
-  color: #0078d4;
-}
+/* Tailwind CDN で大半を処理。追加スタイルが必要な場合ここに記述 */
